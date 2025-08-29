@@ -1,4 +1,3 @@
-
 // This is the main component for the About Us page.
 export default function AboutPage() {
   return (
