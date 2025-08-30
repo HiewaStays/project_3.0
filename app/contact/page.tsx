@@ -60,7 +60,7 @@ export default function ContactPage() {
               </div>
               <div>
                 <label htmlFor="phone" className="block text-sm font-semibold text-gray-700 mb-1">Phone (Optional)</label>
-                <input type="tel" id="phone" className="w-full p-3 border border-gray-300 rounded-md focus:ring-2 focus:ring-green-500" placeholder="+91 98765 43210" />
+                <input type="tel" id="phone" className="w-full p-3 border border-gray-300 rounded-md focus:ring-2 focus:ring-green-500" placeholder="+91 8885429421" />
               </div>
                <div>
                   <label htmlFor="dates" className="block text-sm font-semibold text-gray-700 mb-1">Preferred dates (if applicable)</label>
@@ -91,11 +91,11 @@ export default function ContactPage() {
                   <p className="text-sm text-gray-500">(Exact coordinates shared upon booking)</p>
                 </InfoItem>
                 <InfoItem icon="📞" title="Call us">
-                  <p>+91 98765 43210</p>
+                  <p>+91 88854 29421</p>
                   <p className="text-sm text-gray-500">Best time to reach us: 8 AM - 8 PM</p>
                 </InfoItem>
                 <InfoItem icon="✉️" title="Email us">
-                  <p>hello@hiewa.com</p>
+                  <p>admin@hiewa.in</p>
                   <p className="text-sm text-gray-500">For all inquiries and bookings</p>
                 </InfoItem>
               </div>
